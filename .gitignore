@@ -1,0 +1,17 @@
+# Maven build output
+target/
+*.class
+*.jar
+!lib/*.jar
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+*.log
+
+# NetBeans
+nbproject/
+build.xml
+manifest.mf
